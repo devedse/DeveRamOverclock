@@ -34,15 +34,15 @@ while ($true) {
     $highestNumber++    
     $lastrow++
 
-    $filesZen = @(Get-ChildItem -Filter "*Zen_$highestNumber*.png")
-    $filesTM5 = @(Get-ChildItem -Filter "*TM5_$highestNumber*.png")
+    $filesZen = @(Get-ChildItem -Path "benchmarks" -Filter "*Zen_$highestNumber*.png")
+    $filesTM5 = @(Get-ChildItem -Path "benchmarks" -Filter "*TM5_$highestNumber*.png")
 
     if ($filesZen.Length -eq 0 -and $filesTM5.Length -eq 0) {
         break
     }
 
-    $stringZen = $filesZen | ForEach-Object { "![]($($_.Name))"} | Join-String -Separator ' '
-    $stringTM5 = $filesTM5 | ForEach-Object { "![]($($_.Name))"} | Join-String -Separator ' '
+    $stringZen = $filesZen | ForEach-Object { "![](benchmarks\$($_.Name))"} | Join-String -Separator ' '
+    $stringTM5 = $filesTM5 | ForEach-Object { "![](benchmarks\$($_.Name))"} | Join-String -Separator ' '
     $line = "| $highestNumber | $stringZen | $stringTM5 | ... | ... |"
     Write-Host $line
 
