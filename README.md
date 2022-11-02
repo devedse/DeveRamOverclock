@@ -3,7 +3,7 @@
 ## RAM Information
 
 I currently have 4x 32gb Corsair RAM (only 3 shown in picture below):
-![](images/3 ram sticks.png)
+![](images/3ramsticks.png)
 
 Hynix 5.49 MJR
 
@@ -27,17 +27,24 @@ My current progress in overclocking RAM
 
 | Step | Zentimings | TM5 | Description | Stable? |
 |:----:|:----------:|:---:|:-----------:|:-------:|
-| 1 | ![](benchmarks/Zen_1_3600error.png) | ![](benchmarks\TM5_1_Witherrors.png) | 3600mhz with increased primary timings | Unstable ~30 hours |
-| 2 | ![](benchmarks\Zen_2_noerror.png) | ![](benchmarks\TM5_2.png) | Changed Setups and DrvStr | Stable ~11 hours |
-| 3 | ![](benchmarks\Zen_3.png) | ![](benchmarks\TM5_3_tFAW_TRRDS_TRRDL.png) | TFAW 16 / TRRDS 4 / TRRDL 4 | Stable ~8 hours |
+| 1 | ![](benchmarks/Zen_1_3600error.png) | ![](benchmarks/TM5_1_Witherrors.png) | 3600mhz with increased primary timings | Unstable ~30 hours |
+| 2 | ![](benchmarks/Zen_2_noerror.png) | ![](benchmarks/TM5_2.png) | Changed Setups and DrvStr | Stable ~11 hours |
+| 3 | ![](benchmarks/Zen_3.png) | ![](benchmarks/TM5_3_tFAW_TRRDS_TRRDL.png) | TFAW 16 / TRRDS 4 / TRRDL 4 | Stable ~8 hours |
 | 4 | ?? | ?? | ?? | ?? |
-| 5 | ![](benchmarks\Zen_5_TRFC.png) | ![](benchmarks\TM5_5.png) | tRFC 388 | Stable ~8 hours |
-| 6 | ![](benchmarks\Zen_6_tWTRS.png) | ![](benchmarks\TM5_6.png) | tWTRS 4 / tWTRL 10 | Unstable ~8 hours |
-| 7 |  | ![](benchmarks\TM5_7.png) | Setups 59 50 50 | Unstable ~2 hours |
-| 8 | ![](benchmarks\Zen_8_SetupsenVddp.png) | ![](benchmarks\TM5_8_4herror.png) | Setups 59 59 59 | Unstable ~9 hours |
-| 9 | ![](benchmarks\Zen_9_Setups57_3Errors.png) | ![](benchmarks\TM5_9_3Errors11hours.png) | Setups 57 57 57 | Unstable 11 hours |
-| 10 | ![](benchmarks\Zen_10_Setups55_0Errors.png) | ![](benchmarks\TM5_10_NoError18hours.png) ![](benchmarks\TM5_10_part2Errorsafter35hours.png) | Setups 55 55 55 | Unstable ~35 hours |
-| 10 | ![](benchmarks\Zen_11_0_ErrorsSoFar.png) | ![](benchmarks\TM5_11_0ErrorsSoFar.png) ![](benchmarks\TM5_11_0ErrorsSoFar2.png) | Back to XMP | Stable ~40+ hours |
+| 5 | ![](benchmarks/Zen_5_TRFC.png) | ![](benchmarks/TM5_5.png) | tRFC 388 | Stable ~8 hours |
+| 6 | ![](benchmarks/Zen_6_tWTRS.png) | ![](benchmarks/TM5_6.png) | tWTRS 4 / tWTRL 10 | Unstable ~8 hours |
+| 7 |  | ![](benchmarks/TM5_7.png) | Setups 59 50 50 | Unstable ~2 hours |
+| 8 | ![](benchmarks/Zen_8_SetupsenVddp.png) | ![](benchmarks/TM5_8_4herror.png) | Setups 59 59 59 | Unstable ~9 hours |
+| 9 | ![](benchmarks/Zen_9_Setups57_3Errors.png) | ![](benchmarks/TM5_9_3Errors11hours.png) | Setups 57 57 57 | Unstable 11 hours |
+| 10 | ![](benchmarks/Zen_10_Setups55_0Errors.png) | ![](benchmarks/TM5_10_NoError18hours.png) ![](benchmarks/TM5_10_part2Errorsafter35hours.png) | Setups 55 55 55 | Unstable ~35 hours |
+| 11 | ![](benchmarks/Zen_11_0_ErrorsSoFar.png) | ![](benchmarks/TM5_11_0ErrorsSoFar.png) ![](benchmarks/TM5_11_0ErrorsSoFar2.png) | Back to XMP | Stable ~40+ hours |
 
 ## More usefull things
 
+RFC Timings:
+
+![](images/tRFC_v21.png)
+
+Speed increase per setting:
+
+![](images/speedincrease.png)
