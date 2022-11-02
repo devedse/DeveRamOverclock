@@ -27,7 +27,7 @@ My current progress in overclocking RAM
 
 | Step | Zentimings | TM5 | Description | Stable? |
 |:----:|:----------:|:---:|:-----------:|:-------:|
-| 1 | ![](benchmarks\Zen_1_3600error.png) | ![](benchmarks\TM5_1_Witherrors.png) | 3600mhz with increased primary timings | Unstable ~30 hours |
+| 1 | ![](benchmarks/Zen_1_3600error.png) | ![](benchmarks\TM5_1_Witherrors.png) | 3600mhz with increased primary timings | Unstable ~30 hours |
 | 2 | ![](benchmarks\Zen_2_noerror.png) | ![](benchmarks\TM5_2.png) | Changed Setups and DrvStr | Stable ~11 hours |
 | 3 | ![](benchmarks\Zen_3.png) | ![](benchmarks\TM5_3_tFAW_TRRDS_TRRDL.png) | TFAW 16 / TRRDS 4 / TRRDL 4 | Stable ~8 hours |
 | 4 | ?? | ?? | ?? | ?? |
