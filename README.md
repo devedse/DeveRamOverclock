@@ -18,7 +18,7 @@ My limits:
 
 | Setting | My Safe Voltage | Max Safe Voltage | Reasoning |
 |:-------:|:---------------:|:----------------:|:---------:|
-| VDDG IOD | 1.00v | 1.05v | 0.05v below the limit (I think I didn't touch this value in the bios) |
+| VDDG IOD | 1.00v | 1.05v | 0.05v below the limit (This might be the same as the one below, I'm not sure) |
 | VDDP | 1.00v | 1.05v | 0.05v below the limit |
 | VDIMM | 1.40v | 1.45v | 0.05v below the limit |
 
@@ -39,7 +39,30 @@ My current progress in overclocking RAM
 | 10 | ![](benchmarks/Zen_10_Setups55_0Errors.png) | ![](benchmarks/TM5_10_NoError18hours.png) ![](benchmarks/TM5_10_part2Errorsafter35hours.png) | Setups 55 55 55 | Unstable ~35 hours |
 | 11 | ![](benchmarks/Zen_11_0_ErrorsSoFar.png) | ![](benchmarks/TM5_11_0ErrorsSoFar.png) ![](benchmarks/TM5_11_0ErrorsSoFar2.png) | Back to XMP | Stable ~40+ hours |
 
+## Next steps
+
+### Figuring out why I'm having errors
+
+Ideas:
+
+| # | Idea | My oppinion |
+|:-:|:----:|:-----------:|
+| 1 | VDDP to 0.95v / VDDG IOD to 1.05v | I don't like voltage playing but maybe I can try this |
+| 2 | Play with setups | Tried it but didn't really solve it (Only tried all setups same timing except 59 50 50) |
+| 3 | Play with DrvStr | Todo |
+| 4 | Maybe up the previous timings I tweaked???? (E.g. tRTP 8 ) | Todo |
+| 5 | Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
+| 6 | Rerun XMP | Done, seemed to be stable |
+| 7 | Change ProcODT | Todo |
+| 8 | tRRDL 6 / tRTP 10 | Todo |
+| 9 | 3533 Mhz | Todo |
+
+
 ## More usefull things
+
+Guide:
+
+https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md#tightening-timings
 
 RFC Timings:
 
