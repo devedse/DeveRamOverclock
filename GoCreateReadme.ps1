@@ -41,8 +41,8 @@ while ($true) {
         break
     }
 
-    $stringZen = $filesZen | ForEach-Object { "![](benchmarks\$($_.Name))"} | Join-String -Separator ' '
-    $stringTM5 = $filesTM5 | ForEach-Object { "![](benchmarks\$($_.Name))"} | Join-String -Separator ' '
+    $stringZen = $filesZen | ForEach-Object { "![](benchmarks/$($_.Name))"} | Join-String -Separator ' '
+    $stringTM5 = $filesTM5 | ForEach-Object { "![](benchmarks/$($_.Name))"} | Join-String -Separator ' '
     $line = "| $highestNumber | $stringZen | $stringTM5 | ... | ... |"
     Write-Host $line
 

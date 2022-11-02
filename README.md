@@ -3,7 +3,7 @@
 ## RAM Information
 
 I currently have 4x 32gb Corsair RAM (only 3 shown in picture below):
-![](images\3 ram sticks.png)
+![](images/3 ram sticks.png)
 
 Hynix 5.49 MJR
 
