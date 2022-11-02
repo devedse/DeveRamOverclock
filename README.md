@@ -51,7 +51,7 @@ Ideas:
 | 2 | Kermit | Play with setups | Tried it but didn't really solve it (Only tried all setups same timing except 59 50 50) |
 | 3 | Kermit | Play with DrvStr | Todo |
 | 4 | Stoney | Maybe up the previous timings I tweaked???? (E.g. tRTP 8 ) | Todo |
-| 5 | Devedse (me)  Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
+| 5 | Devedse (me) | Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
 | 6 | Devedse (me) | Rerun XMP | Done, seemed to be stable |
 | 7 | Kermit | Change ProcODT | Todo |
 | 8 | Profile_name_1 | tRRDL 6 / tRTP 10 | Todo |
