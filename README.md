@@ -45,17 +45,18 @@ My current progress in overclocking RAM
 
 Ideas:
 
-| # | Idea | My oppinion |
-|:-:|:----:|:-----------:|
-| 1 | VDDP to 0.95v / VDDG IOD to 1.05v | I don't like voltage playing but maybe I can try this |
-| 2 | Play with setups | Tried it but didn't really solve it (Only tried all setups same timing except 59 50 50) |
-| 3 | Play with DrvStr | Todo |
-| 4 | Maybe up the previous timings I tweaked???? (E.g. tRTP 8 ) | Todo |
-| 5 | Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
-| 6 | Rerun XMP | Done, seemed to be stable |
-| 7 | Change ProcODT | Todo |
-| 8 | tRRDL 6 / tRTP 10 | Todo |
-| 9 | 3533 Mhz | Todo |
+| # | Suggested by | Idea | My oppinion |
+|:-:|:------------:|:----:|:-----------:|
+| 1 | Krunk | VDDP to 0.95v / VDDG IOD to 1.05v | I don't like voltage playing but maybe I can try this |
+| 2 | Kermit | Play with setups | Tried it but didn't really solve it (Only tried all setups same timing except 59 50 50) |
+| 3 | Kermit | Play with DrvStr | Todo |
+| 4 | Stoney | Maybe up the previous timings I tweaked???? (E.g. tRTP 8 ) | Todo |
+| 5 | Devedse (me)  Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
+| 6 | Devedse (me) | Rerun XMP | Done, seemed to be stable |
+| 7 | Kermit | Change ProcODT | Todo |
+| 8 | Profile_name_1 | tRRDL 6 / tRTP 10 | Todo |
+| 9 | Profile_name_1 | 3533 Mhz | Todo |
+| 10 | | Play with GDM Disabled to see if you can figure out what causes instability | Tried, but not much was found |
 
 
 ## More usefull things
