@@ -13,7 +13,7 @@ My current progress in overclocking RAM
 | 8 | ![](Zen_8_SetupsenVddp.png) | ![](TM5_8_4herror.png) | ... | ... |
 | 9 | ![](Zen_9_Setups57_3Errors.png) | ![](TM5_9_3Errors11hours.png) | ... | ... |
 | 10 | ![](Zen_10_Setups55_0Errors.png) | ![](TM5_10_NoError18hours.png) ![](TM5_10_part2Errorsafter35hours.png) | ... | ... |
-| 11 | ![](Zen_11_0_ErrorsSoFar.png) ![](Zen_11_0_ErrorsSoFar2.png) | ![](TM5_11_0ErrorsSoFar.png) | ... | ... |
+| 11 | ![](Zen_11_0_ErrorsSoFar.png) | ![](TM5_11_0ErrorsSoFar.png) ![](TM5_11_0ErrorsSoFar2.png) | ... | ... |
 
 ## More blah
 
