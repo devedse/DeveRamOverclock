@@ -54,7 +54,7 @@ Ideas:
 | 4 | Stoney | Maybe up the previous timings I tweaked???? (E.g. tRTP 8 ) | Todo |
 | 5 | Devedse (me) | Rerun Benchmark 2 for longer to see if this was actually stable | Todo |
 | 6 | Devedse (me) | Rerun XMP | Done, seemed to be stable |
-| 7 | Kermit | Change ProcODT | Todo |
+| 7 | Kermit | Change ProcODT to 43.6 | Didn't work, unstable after 6 hours |
 | 8 | Profile_name_1 | tRRDL 6 / tRTP 10 | Todo |
 | 9 | Profile_name_1 | 3533 Mhz | Todo |
 | 10 | | Play with GDM Disabled to see if you can figure out what causes instability | Tried, but not much was found |
