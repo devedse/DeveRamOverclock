@@ -39,7 +39,7 @@ My current progress in overclocking RAM
 | 10 | ![](benchmarks/Zen_10_Setups55_0Errors.png) | ![](benchmarks/TM5_10_NoError18hours.png) ![](benchmarks/TM5_10_part2Errorsafter35hours.png) | Setups 55 55 55 | Unstable ~35 hours |
 | 11 | ![](benchmarks/Zen_11_0_ErrorsSoFar.png) | ![](benchmarks/TM5_11_0ErrorsSoFar.png) ![](benchmarks/TM5_11_0ErrorsSoFar2.png) | Back to XMP | Stable ~40+ hours |
 | 12 | ![](benchmarks/Zen_12_ProcODT.png) | ![](benchmarks/TM5_12_ProcODT.png) | ProcODT to 43.6 OHM | Errors after ~6 hours |
-| 13 | ![](benchmarks/Zen_13_Freq.png) | ![](benchmarks/TM5_13_FreqNoErrorsSoFar.png) | Decreased frequency to 3533mhz | Stable 26 hours |
+| 13 | ![](benchmarks/Zen_13_Freq.png) | ![](benchmarks/TM5_13_FreqNoErrorsSoFar.png) ![](benchmarks/TM5_13_FreqNoErrorsSoFar2.png) ![](benchmarks/TM5_13_FreqNoErrorsSoFar3.png) | Decreased frequency to 3533mhz | Stable 50 hours |
 
 ## Next steps
 
