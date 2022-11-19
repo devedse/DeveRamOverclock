@@ -29,17 +29,19 @@ foreach ($line in $readmeContent) {
     $currow++
 }
 
+$fileNumbers = Get-ChildItem -Path "benchmarks" | Where-Object { $_.Name -match '(TM5|Zen)_\d+_.*\.png' } | ForEach-Object { [int]$_.Name.Split('_')[1] } | Sort-Object
+$highestFileNumber = $fileNumbers | Select-Object -Last 1
 
-while ($true) {
+while ($highestNumber -lt $highestFileNumber) {
     $highestNumber++    
     $lastrow++
 
     $filesZen = @(Get-ChildItem -Path "benchmarks" -Filter "*Zen_$highestNumber*.png")
     $filesTM5 = @(Get-ChildItem -Path "benchmarks" -Filter "*TM5_$highestNumber*.png")
 
-    if ($filesZen.Length -eq 0 -and $filesTM5.Length -eq 0) {
-        break
-    }
+    # if ($filesZen.Length -eq 0 -and $filesTM5.Length -eq 0) {
+    #     break
+    # }
 
     $stringZen = $filesZen | ForEach-Object { "![](benchmarks/$($_.Name))"} | Join-String -Separator ' '
     $stringTM5 = $filesTM5 | ForEach-Object { "![](benchmarks/$($_.Name))"} | Join-String -Separator ' '
