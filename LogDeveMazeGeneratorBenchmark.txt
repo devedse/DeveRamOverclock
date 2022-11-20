@@ -1,0 +1,29 @@
+D10
+
+| Method |                                                          algorithm |    Mean |    Error |   StdDev |     Min |     Max |      Gen0 |      Gen1 |      Gen2 | Allocated |
+|------- |------------------------------------------------------------------- |--------:|---------:|---------:|--------:|--------:|----------:|----------:|----------:|----------:|
+| Simple | DeveMazeGeneratorCore.Generators.AlgorithmBacktrack2Deluxe2_AsByte | 1.838 s | 0.0006 s | 0.0012 s | 1.836 s | 1.842 s | 5000.0000 | 4000.0000 | 3000.0000 |    161 MB |
+
+D11
+
+| Method |                                                          algorithm |    Mean |    Error |   StdDev |     Min |     Max |      Gen0 |      Gen1 |      Gen2 | Allocated |
+|------- |------------------------------------------------------------------- |--------:|---------:|---------:|--------:|--------:|----------:|----------:|----------:|----------:|
+| Simple | DeveMazeGeneratorCore.Generators.AlgorithmBacktrack2Deluxe2_AsByte | 1.850 s | 0.0018 s | 0.0036 s | 1.842 s | 1.859 s | 5000.0000 | 4000.0000 | 3000.0000 |    161 MB |
+
+D15
+
+| Method |                                                          algorithm |    Mean |    Error |   StdDev |     Min |     Max |      Gen0 |      Gen1 |      Gen2 | Allocated |
+|------- |------------------------------------------------------------------- |--------:|---------:|---------:|--------:|--------:|----------:|----------:|----------:|----------:|
+| Simple | DeveMazeGeneratorCore.Generators.AlgorithmBacktrack2Deluxe2_AsByte | 1.836 s | 0.0013 s | 0.0026 s | 1.832 s | 1.843 s | 5000.0000 | 4000.0000 | 3000.0000 |    161 MB |
+
+D18
+
+| Method |                                                          algorithm |    Mean |    Error |   StdDev |     Min |     Max |      Gen0 |      Gen1 |      Gen2 | Allocated |
+|------- |------------------------------------------------------------------- |--------:|---------:|---------:|--------:|--------:|----------:|----------:|----------:|----------:|
+| Simple | DeveMazeGeneratorCore.Generators.AlgorithmBacktrack2Deluxe2_AsByte | 1.838 s | 0.0009 s | 0.0017 s | 1.835 s | 1.842 s | 5000.0000 | 4000.0000 | 3000.0000 |    161 MB |
+
+D19
+
+| Method |                                                          algorithm |    Mean |    Error |   StdDev |     Min |     Max |      Gen0 |      Gen1 |      Gen2 | Allocated |
+|------- |------------------------------------------------------------------- |--------:|---------:|---------:|--------:|--------:|----------:|----------:|----------:|----------:|
+| Simple | DeveMazeGeneratorCore.Generators.AlgorithmBacktrack2Deluxe2_AsByte | 1.824 s | 0.0029 s | 0.0057 s | 1.809 s | 1.834 s | 5000.0000 | 4000.0000 | 3000.0000 |    161 MB |

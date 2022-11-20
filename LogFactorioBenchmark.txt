@@ -1,0 +1,78 @@
+D10:
+C:\TheUsbFolder\Benchmarking>powershell -command ". { [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"                                                    Downloading map...                                                                                                      Running benchmark...                                                                                                    Performed 1000 updates in 5027.875 ms                                                                                   Performed 1000 updates in 5062.373 ms
+Performed 1000 updates in 5042.314 ms
+Performed 1000 updates in 5032.224 ms
+Performed 1000 updates in 5083.550 ms
+Map benchmarked at 199 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/043fa2d7-54ba-4de9-b7b0-9ee6567751bf
+
+D11:
+Microsoft Windows [Version 10.0.22621.819]
+(c) Microsoft Corporation. All rights reserved.
+                                                                                                                        C:\Users\davyd>powershell -command ". { [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"                                                                  Downloading map...                                                                                                      Running benchmark...
+Performed 1000 updates in 5569.373 ms
+Performed 1000 updates in 5664.632 ms
+Performed 1000 updates in 5632.069 ms
+Performed 1000 updates in 5611.329 ms
+Performed 1000 updates in 5647.019 ms
+Map benchmarked at 180 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/c5ce94c2-3f2f-4d81-b043-b8df69ccf392
+
+C:\TheUsbFolder\Benchmarking>powershell -command ". { [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"                                                    Downloading map...                                                                                                      Running benchmark...                                                                                                    Performed 1000 updates in 5481.786 ms                                                                                   Performed 1000 updates in 5639.369 ms
+Performed 1000 updates in 5857.888 ms
+Performed 1000 updates in 5912.190 ms
+Performed 1000 updates in 5694.025 ms
+Map benchmarked at 182 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/5766c1c1-8470-4086-a9ae-e45fa57d6e3a
+
+
+
+
+D15:
+
+C:\TheUsbFolder\Benchmarking>powershell -command ". { [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"                                                    Downloading map...                                                                                                      Running benchmark...                                                                                                    Performed 1000 updates in 5085.292 ms                                                                                   Performed 1000 updates in 5036.025 ms
+Performed 1000 updates in 5088.967 ms
+Performed 1000 updates in 5038.371 ms
+Performed 1000 updates in 5041.219 ms
+Map benchmarked at 199 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/43a37ba8-ec70-4f0e-b63d-777940fd93c6
+
+
+D18
+
+C:\Users\davyd>powershell -command ". { Set-Variable -Name 'URL' -Value 'https://factoriobox.1au.us/map/download/4c5f65003d84370f16d6950f639be1d6f92984f24c0240de6335d3e161705504.zip'; [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"                                          Downloading map...
+Running benchmark...
+Performed 1000 updates in 4977.506 ms
+Performed 1000 updates in 4973.110 ms
+Performed 1000 updates in 4961.768 ms
+Performed 1000 updates in 4957.214 ms
+Performed 1000 updates in 4937.109 ms
+Map benchmarked at 203 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/b93b48db-fbd7-4a4d-8290-26db80d28286
+
+Press Enter to continue...:
+
+C:\Users\davyd>powershell -command ". { Set-Variable -Name 'URL' -Value 'https://factoriobox.1au.us/map/download/4c5f65003d84370f16d6950f639be1d6f92984f24c0240de6335d3e161705504.zip'; [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"
+Downloading map...
+Running benchmark...
+Performed 1000 updates in 4931.825 ms
+Performed 1000 updates in 4958.467 ms
+Performed 1000 updates in 4959.239 ms
+Performed 1000 updates in 4929.054 ms
+Performed 1000 updates in 4935.849 ms
+Map benchmarked at 203 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/fc16e8b2-5e55-46c9-8866-08655c3edda1
+
+
+D19
+
+C:\TheUsbFolder\Benchmarking>powershell -command ". { [Net.ServicePointManager]::SecurityProtocol = 'tls12, tls11, tls'; iwr -useb https://factoriobox.1au.us/scripts/benchmark.ps1 } | iex"              
+Performed 1000 updates in 4974.504 ms
+Performed 1000 updates in 4983.564 ms
+Performed 1000 updates in 4976.556 ms
+Performed 1000 updates in 4955.051 ms
+Performed 1000 updates in 4963.158 ms
+Map benchmarked at 202 UPS
+Share your benchmark at: https://factoriobox.1au.us/result/b22f9f7b-9c8b-4766-a17c-94784b1e4ae3
+
+Press Enter to continue...:
