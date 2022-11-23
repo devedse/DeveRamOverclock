@@ -45,7 +45,8 @@ My current progress in overclocking RAM
 | 16 |  |  | Playing with primaries 1 | ... |
 | 17 |  |  | Playing with primaries 2 | ... |
 | 18 | ![](benchmarks/Zen_18_Primaries.png) | ![](benchmarks/TM5_18_Primaries.png) ![](benchmarks/TM5_18_PrimariesUnstable.png) | Lowest primaries that boot | Unstable 25 hours |
-| 19 | ![](benchmarks/Zen_19_PrimariesJust_tCL_tRFC.png) | ![](benchmarks/TM5_19_24hours.png) ![](benchmarks/TM5_19_11hours_1error.png) | Primary tCL 19 | Stable 24 hours |
+| 19 | ![](benchmarks/Zen_19_PrimariesJust_tCL_tRFC.png) | ![](benchmarks/TM5_19_24hours.png) ![](benchmarks/TM5_19_11hours_1error.png) | Primary tCL 19 + tRFC 680 | Unstable 40 hours |
+| 20 | ![](benchmarks/Zen_20_tRFC_backto700.png) | ![](benchmarks/TM5_20_15hours.png) ![](benchmarks/TM5_20_16hours.png) ![](benchmarks/TM5_20_19hours.png) | tRFC back to 700 | Stable 50 hours |
 
 ## Next steps
 
